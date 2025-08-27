@@ -1,0 +1,111 @@
+
+export const professions = [
+  // Academic Subjects
+  "Mathematics",
+  "Algebra",
+  "Geometry",
+  "Calculus",
+  "Statistics",
+  "Physics",
+  "Chemistry",
+  "Biology",
+  "English",
+  "Literature",
+  "Creative Writing",
+  "History",
+  "Geography",
+  "Economics",
+  "Political Science",
+  "Sociology",
+  "Psychology",
+  "Philosophy",
+
+  // Languages
+  "Spanish",
+  "French",
+  "German",
+  "Mandarin Chinese",
+  "Japanese",
+  "Italian",
+  "Portuguese",
+  "Russian",
+  "Arabic",
+  "Korean",
+  "English as a Second Language (ESL)",
+
+  // Music
+  "Piano",
+  "Guitar",
+  "Violin",
+  "Drums",
+  "Singing / Voice",
+  "Cello",
+  "Flute",
+  "Clarinet",
+  "Saxophone",
+  "Trumpet",
+  "Music Theory",
+  "Songwriting",
+  "Music Production",
+
+  // Arts & Crafts
+  "Drawing",
+  "Oil Painting",
+  "Watercolor Painting",
+  "Sculpture",
+  "Pottery",
+  "Photography",
+  "Digital Art",
+  "Graphic Design",
+  "Animation",
+  "Knitting",
+  "Sewing",
+
+  // Technology & Programming
+  "Computer Science",
+  "Python",
+  "JavaScript",
+  "Java",
+  "C++",
+  "Web Development",
+  "Mobile App Development",
+  "Data Science",
+  "Machine Learning",
+  "Artificial Intelligence",
+  "Cybersecurity",
+  "UI/UX Design",
+  "Game Development",
+
+  // Test Preparation
+  "SAT Prep",
+  "ACT Prep",
+  "GRE Prep",
+  "GMAT Prep",
+  "MCAT Prep",
+  "LSAT Prep",
+  "IELTS Prep",
+  "TOEFL Prep",
+
+  // Business & Finance
+  "Accounting",
+  "Finance",
+  "Marketing",
+  "Business Management",
+  "Public Speaking",
+  "Negotiation",
+  "Project Management",
+
+  // Health & Wellness
+  "Fitness Training",
+  "Yoga",
+  "Meditation",
+  "Nutrition",
+  "Life Coaching",
+
+  // Hobbies & Other
+  "Cooking",
+  "Baking",
+  "Chess",
+  "Dance",
+  "Acting"
+];
