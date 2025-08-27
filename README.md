@@ -1,6 +1,3 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
-# yourtutor1
+put .env in the project folder  fill the environment variable
+npm install 
+npm run dev
